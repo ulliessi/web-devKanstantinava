@@ -1,2 +1,0 @@
-# web-devKanstantinava
-web-devKanstantinava
